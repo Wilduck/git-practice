@@ -1,5 +1,6 @@
 [Produce]
  - Red Onions
+ - Green Onions
  - Carrots
 
 [Meat]
@@ -9,3 +10,7 @@
 [Dairy]
  - Eggs
  - Milk
+
+[Packaged]
+ - Noodles
+ - Seasoning
