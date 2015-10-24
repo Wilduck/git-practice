@@ -1,0 +1,10 @@
+[Ingredients]
+ - Noodles
+ - Seasoning
+ - Egg
+ - Green Onions
+
+[Instructions]
+ - Soft boil egg
+ - Cook Noodles
+ - Combine Noodles, seasoning, egg, green onions
