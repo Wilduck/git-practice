@@ -1,0 +1,10 @@
+[Produce]
+ - Onions
+ - Carrots
+
+[Meat]
+ - Chicken
+
+[Dairy]
+ - Eggs
+ - Milk
